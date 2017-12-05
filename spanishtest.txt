@@ -1,0 +1,5 @@
+Arrastre el widget hasta la deseada en la nueva pantalla.
+Complete su llamada. 
+Durante ese tipo de llamada acceso al modo de altoparlante, al teclado y a funciones de finalizar llamadas.
+Ahora puede la información de los contactos de su cuenta de Facebook, como fotos, correo electrónico y números telefónicos, directamente a su lista de contactos. 
+Toda la información de contacto actual se transferirá a su teléfono.

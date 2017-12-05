@@ -1,0 +1,10 @@
+Retire la tapa de la batería.
+Localice la ranura para tarjetas microSD ubicada en el interior del dispositivo.
+Conecte el cable USB a la unidad cargadora
+Inserte el cable USB en el conector para cargador/accesorios del dispositivo
+Extraiga la tarjeta de la ranura.
+Compruebe los servicios en ejecución y cierre cualquier aplicación innecesaria
+Apague cualquier servicio de transmisión continua después del uso
+En forma predeterminada, la pantalla del dispositivo se bloquea cuando se apaga la luz de fondo
+Pulse en la entrada de una notificación para abrir la aplicación asociada
+Los siguientes términos describen las acciones en pantalla y con botones y teclas físicas más comunes.
